@@ -11,5 +11,5 @@
 * Hans-Manuel Grenner Noguerón
 * Óscar Sánchez Martínez
 * Jose Antonio Plata Muñoz
-* Miguel Martínez Castellano
+* Miguel Martínez Castellanos
 * Cristina Rosillo Arenas
